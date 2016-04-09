@@ -18,6 +18,12 @@
     "name": "Artem Trubitsyn",
     "email": "art.trubitsyn@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem713/array-prop-aggregator.git"
+  },
+  "gitHead": "aab0662b719e023856e778194a85f9c9fe6503a7",
+  "homepage": "https://github.com/artem713/array-prop-aggregator",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.6.5",
